@@ -6,7 +6,7 @@ def get_fortune(mood):
     fortunes = {
         "happy": [
             "🌈 Bright days are ahead, keep shining!",
-            "✨ Your joy is contagious, Indranil!",
+            "✨ Your joy is contagious, Vaibhav!",
         ],
         "sad": [
             "💖 It's okay to feel down. Better days are coming.",
